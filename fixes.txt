@@ -1,1 +1,2 @@
-This is file that fixex bugs.
+This is file that fixex bugs
+fixed another bug.
